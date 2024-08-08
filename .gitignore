@@ -44,8 +44,6 @@ out/
 *.iml
 *.ipr
 *.iws
-*.idea/
-MortgageCalculator.iml
 
 ##############################
 ## Eclipse
